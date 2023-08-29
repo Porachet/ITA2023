@@ -25,7 +25,7 @@ body {
   }
   
   h1{
-  font-size: 15px;
+  font-size: 5px;
   
   }
   
